@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "901840150860",
+    "project_id": "photo-diary-765ac",
+    "storage_bucket": "photo-diary-765ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901840150860:android:bbeb9458e03fe637f0efe9",
+        "android_client_info": {
+          "package_name": "com.example.photodiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901840150860-t2s41kfku7oe9oq3dgo0phc64okiqual.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.photodiary",
+            "certificate_hash": "7db8fb7070d04b84ceee2a1759a8d3c1905feb65"
+          }
+        },
+        {
+          "client_id": "901840150860-3k3koqett0fm1dtm255s1s1cd3jd3idd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNcsN3TObN7orXu8SltjUf_JAmP4huGlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901840150860-3k3koqett0fm1dtm255s1s1cd3jd3idd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

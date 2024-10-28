@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_allview"
+        android:title="All View"
+        android:icon="@drawable/allview_vector"/>
+    <item android:id="@+id/nav_onlyphotos"
+        android:title="Only Photos"
+        android:icon="@drawable/onlyphotos_vector" />
+</menu>
